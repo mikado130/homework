@@ -1,0 +1,62 @@
+# Подсказки по командной строке Markdown
+
+Команда смены директории
+```sh
+cd c:\folder_name
+```
+
+Команда отображения текущей директории. (MacOs, Linux)
+```sh
+pwd
+```
+
+Листинг текущей директории Windows:
+```sh
+dir
+```
+
+Linux, MacOs:
+```sh
+ls
+```
+
+Удаление файла в Windows
+```sh
+del
+```
+в Linux, MacOs
+```sh
+rm<file_name>
+```
+
+# Инструкция по языку Markdown
+
+## Заголовок 2-го уровня
+### Заголовок 3-го уровня
+
+Обычный текст набираем как есть.
+
+Новая строка
+
+# Команды для начала работы
+```sh
+git init
+```
+
+```sh
+git status
+```
+
+```sh
+got config --global user.name
+```
+
+```sh
+git config --global user.email
+```
+
+# Как добавить картинку
+
+![конфликт](conflictVSC.jpg)
+
+![git branch](gitbranch.jpg)
